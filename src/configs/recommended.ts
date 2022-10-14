@@ -7,7 +7,8 @@ const config = {
     'lit/no-duplicate-template-bindings': 'error',
     'lit/no-invalid-html': 'error',
     'lit/no-legacy-template-syntax': 'error',
-    'lit/no-property-change-update': 'error'
+    'lit/no-property-change-update': 'error',
+    'lit/tailwind-button-usage': 'warning'
   }
 };
 
